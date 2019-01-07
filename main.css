@@ -1,3 +1,54 @@
-html{ 
- background-color: lavender;
- }
+html {
+  background-color: Yellow; 	
+}
+
+p {	
+  background-color: lightblue; 
+  color: red 
+}
+
+img {
+  border-style: inset; 
+  border-width: 4px;
+  border_color: lightblue; 
+	
+  width: 115px; 
+}
+
+h1 {
+  font-family: 'Trebuchet MS', sans-serif; 
+  font-size: 48px;
+  color: red;
+  font-weight: normal; 
+}
+
+h2 {
+  margin-top: 12px;
+  margin-right: 10px; 
+  margin-bottom: 8px;
+  margin-left: 16px; 
+}
+
+
+h3 {
+  margin: 0 auto 0 auto; 
+  box-shadow: 2px -5px 3px 4px red;  	
+                                          
+}
+
+h4 {
+  text-shadow: 2px -5px 3px lightBlue;  	
+}
+
+
+h5 {
+  text-shadow: 2px -5px 3px LightBlue, 0px -2px 10px red;  	
+}
+
+header {
+  text-align: center;	
+}
+
+a {
+  text-decoration: none;	
+  color: yellow; 

@@ -3,14 +3,14 @@ html {
 }
 
 p {	
-  background-color: lightblue; 
+  background-color: Orange; 
   color: red 
 }
 
 img {
   border-style: inset; 
   border-width: 4px;
-  border_color: lightblue; 
+  border_color: Orange; 
 	
   width: 115px; 
 }
@@ -37,12 +37,12 @@ h3 {
 }
 
 h4 {
-  text-shadow: 2px -5px 3px lightBlue;  	
+  text-shadow: 2px -5px 3px Orange;  	
 }
 
 
 h5 {
-  text-shadow: 2px -5px 3px LightBlue, 0px -2px 10px red;  	
+  text-shadow: 2px -5px 3px Orange, 0px -2px 10px red;  	
 }
 
 header {

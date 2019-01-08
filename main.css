@@ -1,16 +1,16 @@
 html {
-  background-color: Yellow; 	
+  background-color: Black; 	
 }
 
 p {	
-  background-color: Orange; 
-  color: red 
+  background-color: Red; 
+  color: Yellow 
 }
 
 img {
   border-style: inset; 
   border-width: 4px;
-  border_color: Orange; 
+  border_color: Yellow; 
 	
   width: 115px; 
 }
@@ -37,12 +37,12 @@ h3 {
 }
 
 h4 {
-  text-shadow: 2px -5px 3px Orange;  	
+  text-shadow: 2px -5px 3px Yellow;  	
 }
 
 
 h5 {
-  text-shadow: 2px -5px 3px Orange, 0px -2px 10px red;  	
+  text-shadow: 2px -5px 3px Yellow, 0px -2px 10px red;  	
 }
 
 header {
